@@ -9,16 +9,16 @@
       </a>
     </div>
 
-    <div class="col-lg-2 col-6 footer-links">
-      <h4>Privacy</h4>
+    <div class="col-lg-2 col-md-4 footer-links text-center text-md-star">
+      <h6>Privacy</h6>
     </div>
 
-    <div class="col-lg-2 col-6 footer-links">
-      <h4>Terms</h4>
+    <div class="col-lg-2 col-md-4 footer-links text-center text-md-star">
+      <h6>Terms</h6>
     </div>
 
-    <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-      <h4>Contact Us</h4>
+    <div class="col-lg-3 col-md-4 footer-contact text-center text-md-start">
+      <h6>Contact Us</h6>
     </div>
 
   </div>

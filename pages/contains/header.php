@@ -15,7 +15,7 @@
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="btn-getstarted" href="get-a-quote.html">Get a Quote</a>
+      <a class="btn-getstarted" href="#">Join Us</a>
 
     </div>
   </header>
