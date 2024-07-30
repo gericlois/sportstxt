@@ -1,0 +1,20 @@
+Opening the website Using XAMPP:
+
+Download and Install XAMPP:
+
+Visit the XAMPP official website and download the appropriate version for your operating system.
+Run the installer and follow the installation instructions.
+Start Apache and MySQL:
+
+Open the XAMPP Control Panel.
+Click the "Start" button next to Apache and MySQL to start these services. Ensure both services are running (indicated by green highlights).
+Place Your Website Files:
+
+Navigate to the XAMPP installation directory (usually C:\xampp on Windows).
+Open the htdocs folder.
+Copy your website files into the htdocs folder. You can create a subfolder within htdocs to keep your files organized (e.g., C:\xampp\htdocs\sportstxt).
+Access Your Website:
+
+Open a web browser.
+Type http://localhost or http://localhost/sportstxt if you created a subfolder.
+Press Enter. Your website should now be accessible.
